@@ -1,1 +1,2 @@
 document is the first important
+new document is very important
